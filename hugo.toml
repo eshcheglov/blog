@@ -1,3 +1,4 @@
-baseURL = 'https://eshcheglov.github.io/blog/'
+baseURL      = 'https://eshcheglov.github.io/blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title        = 'My New Hugo Site'
+theme        = "hello-friend-ng"
